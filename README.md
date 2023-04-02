@@ -2,7 +2,7 @@
 
 ## Description
 
-This challenge was created with the main goal of a data base replication online purchoces base on tags, categories and products.
+This challenge was created with the main goal of a data base replication online purchases base on tags, categories and products.
 
 ## Usage
  -  run npm init -y
